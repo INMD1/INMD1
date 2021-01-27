@@ -8,7 +8,7 @@
 HTML[마크업 언어] <br>
 css[마크업 언어] <br>
 javascript <br>
-jQuery[공부중]
+jQuery[공부중] <br>
 node.js [공부중]
 
 ## 개인 홈페이지!
