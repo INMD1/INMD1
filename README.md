@@ -11,7 +11,4 @@ javascript <br>
 jQuery[공부중] <br>
 node.js [공부중]
 
-## 개인 홈페이지!
-https://wcc.kro.kr
-
 ![GitHub](https://github-readme-stats.vercel.app/api?username=INMD1&show_icons=true)
