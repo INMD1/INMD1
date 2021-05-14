@@ -9,6 +9,7 @@ HTML[마크업 언어] <br>
 css[마크업 언어] <br>
 javascript <br>
 jQuery[공부중] <br>
-node.js [공부중]
+node.js [공부중] <br>
+java[공부중]
 
 ![GitHub](https://github-readme-stats.vercel.app/api?username=INMD1&show_icons=true)
