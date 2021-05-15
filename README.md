@@ -13,12 +13,12 @@ jQuery[공부중] <br>
 node.js [공부중] <br>
 java[공부중]
 
-## 현재 진햏중인 프로젝트
+## 현재 개발중인 프로젝트
 
 ### Javabot-KR-plus
 디스코드에서 음악을 재생해주는 봇입니다.
 
-### deu-meal
+### deu-Dorm-meal
 동의대 기숙사에서 식단정보를 가져옴니다.
 
 ![GitHub](https://github-readme-stats.vercel.app/api?username=INMD1&show_icons=true)
