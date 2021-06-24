@@ -18,7 +18,7 @@ java[공부중]
 ### Javabot-KR-plus
 디스코드에서 음악을 재생해주는 봇입니다.
 
-### deu-Checkapp
+### Checkapp
 출입자명부를 폰으로 작성하는 앱입니다.
 
 ## 개발은 완료된 프로젝트
