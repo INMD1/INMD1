@@ -1,0 +1,13 @@
+.bg {
+    /* The image used */
+    background-image: url("img_girl.jpg");
+  
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.281), rgba(0, 0, 0, .281)), url(/INMD1/image/background.png);
+    background-position: center center, center center;  
+    background-size: cover, cover;  
+    background-repeat: repeat, repeat;
+  }
