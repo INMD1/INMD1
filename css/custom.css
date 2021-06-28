@@ -11,3 +11,7 @@
     background-size: cover, cover;  
     background-repeat: repeat, repeat;
   }
+
+  .main{
+    background-color: azure;
+  }
