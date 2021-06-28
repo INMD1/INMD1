@@ -3,7 +3,7 @@
     background-image: url("img_girl.jpg");
   
     /* Full height */
-    height: 100%;
+    height: 1000px;
   
     /* Center and scale the image nicely */
     background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.281), rgba(0, 0, 0, .281)), url(/INMD1/image/background.png);
