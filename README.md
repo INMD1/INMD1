@@ -6,11 +6,8 @@
 
 ## 할수 있는 언어,마크업 언어는?
 
-HTML[마크업 언어] <br>
-css[마크업 언어] <br>
-javascript <br>
-jQuery[공부중] <br>
-node.js [공부중] <br>
+c 언어<br>
+javascript 다 까먹어서 다시<br>
 java[공부중]
 
 ## 현재 개발중인 프로젝트
