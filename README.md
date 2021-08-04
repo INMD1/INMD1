@@ -24,3 +24,5 @@ java[공부중]
 동의대 기숙사에서 식단정보를 가져옴니다.
 
 ![GitHub](https://github-readme-stats.vercel.app/api?username=INMD1&show_icons=true)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=lyw5415)](https://solved.ac/lyw5415)
