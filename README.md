@@ -15,9 +15,6 @@ java[공부중]
 ### Javabot-KR-plus
 디스코드에서 음악을 재생해주는 봇입니다.
 
-### Checkapp
-출입자명부를 폰으로 작성하는 앱입니다.
-
 ### school-discord-bot
 동의대 창소 1학년들의 디스코드 서버 봇입니다.
 (현재 베타 서비스중)
@@ -26,6 +23,9 @@ java[공부중]
 
 ### deu-Dorm-meal
 동의대 기숙사에서 식단정보를 가져옴니다.
+
+### Checkapp
+출입자명부를 폰으로 작성하는 앱입니다.
 
 ![GitHub](https://github-readme-stats.vercel.app/api?username=INMD1&show_icons=true)
 [![Solved.ac
