@@ -15,7 +15,6 @@
 
 |개발 중, 업데이트 지원중 인 프로젝트|개발 기한|
 |------|---|
-
 |school-discord-bot <br> 동의대 창소 1학년들의 디스코드 서버 봇입니다.|2021.06~ |
 |computerapi <br> server-dashboard에 필요하는 api |2021.11~ |
 |Javabot-KR-plus <br> 디스코드에서 음악을 재생해주는 봇입니다.|2019.06~ |
