@@ -14,18 +14,18 @@
 |------|---|
 
 
-|개발 중, 업데이트 지원중 인 프로젝트|개발 기한|
-|------|---|
-|server-dashboard <br> 동아리실에 있는 개인서버에 라파와 터치스트린을 통해 관리할수 있는 데시보드를 제작합니다. |2021.11~|
-|school-discord-bot <br> 동의대 창소 1학년들의 디스코드 서버 봇입니다.|2021.06~ |
-|computerapi <br> server-dashboard에 필요하는 api |2021.11~ |
-|iptime-port-setting <br> 선배가 만든 iptime 포트포워드 api를 콘솔에서 간편하게 쓸수 있는 것입니다. |2021.10~|
-|Javabot-KR-plus <br> 디스코드에서 음악을 재생해주는 봇입니다.|2019.06~ |
+|개발 중, 업데이트 지원중 인 프로젝트|개발 기한|랑크|
+|------|---|---|
+|server-dashboard <br> 동아리실에 있는 개인서버에 라파와 터치스트린을 통해 관리할수 있는 데시보드를 제작합니다. |2021.11~|[링크](server-dashboard)|
+|school-discord-bot <br> 동의대 창소 1학년들의 디스코드 서버 봇입니다.|2021.06~ |[링크](https://github.com/INMD1/school-discord-bot)|
+|computerapi <br> server-dashboard에 필요하는 api |2021.11~ |[링크](https://github.com/INMD1/computerapi)|
+|iptime-port-setting <br> 선배가 만든 iptime 포트포워드 api를 콘솔에서 간편하게 쓸수 있는 것입니다. |2021.10~|[링크](https://github.com/INMD1/iptime-port-setting)|
+|Javabot-KR-plus <br> 디스코드에서 음악을 재생해주는 봇입니다.|2019.06~ |[링크](https://github.com/INMD1/Javabot-KR-plus)|
 
-|개발 종료, 업데이트 종료된 프로젝트|개발 기한|
-|------|---|
-|deu-Dorm-meal <br> 동의대 기숙사에서 식단정보를 가져옴니다.|2021.06 ~ 2021.06|
-|Checkapp <br> 출입자명부를 폰으로 작성하는 앱입니다.|2021.07 ~ 2021.08|
+|개발 종료, 업데이트 종료된 프로젝트|개발 기한|링크|
+|------|---|---|
+|deu-Dorm-meal <br> 동의대 기숙사에서 식단정보를 가져옴니다.|2021.06 ~ 2021.06|[링크](https://github.com/INMD1/deu-Dorm-mel)|
+|Checkapp <br> 출입자명부를 폰으로 작성하는 앱입니다.|2021.07 ~ 2021.08|[링크](https://github.com/INMD1/Checkapp)|
 
 
 ![GitHub](https://github-readme-stats.vercel.app/api?username=INMD1&show_icons=true)
