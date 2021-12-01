@@ -26,20 +26,20 @@
 |------|---|---|
 |deu-Dorm-meal <br> 동의대 기숙사에서 식단정보를 가져옴니다.|2021.06 ~ 2021.06|[링크](https://github.com/INMD1/deu-Dorm-mel)|
 |Checkapp <br> 출입자명부를 폰으로 작성하는 앱입니다.|2021.07 ~ 2021.08|[링크](https://github.com/INMD1/Checkapp)|
-
-# 활동
-## 대학교
-### 대학교  크라우드 테스팅 경진대회
-대학교 안에있는 기관에서 앱을 테스트 해서 결함이나 개선사항을 제출하는 대회에 참가함<br>
-[참여사진]<br>
-[첨부사진](https://user-images.githubusercontent.com/87979171/144268849-0966f4ae-b07c-4c92-841e-01ee4df8a542.png)
-[참가메세지](https://user-images.githubusercontent.com/87979171/144269224-c4455ecd-c7e6-4a4f-ba3a-fb88b72a6112.png)
+|전방확인 <br> 고등학교때 앱인벤터, 아두이노,초음파 센서를 사용해서 문앞에 물체를 감지해서 경고하는 앱임|2018|[앱사진](https://user-images.githubusercontent.com/87979171/144278604-a47ffa82-d8ab-471c-93de-a925f19d10d9.png)|
+# 🛒활동또는 참가이력
+## 대학교 💻
+|참가년도 및 학년|제목하고 간단한 내용|참여사진또는 문서
+|--------------|-----------------------------|--------|
+|2021 대학교 1학년|대학교 아이디어 난장대회 참<br>학교에서 실시하는 아이디어 공모전에 선배랑 같이 대회에 참가함|[아이디어 제품 디자인](https://user-images.githubusercontent.com/87979171/144269689-16433768-4a48-4afd-bafd-2d4bfe5f9c35.png),[보고서 일부](https://user-images.githubusercontent.com/87979171/144271306-6ead9c8c-47b1-4f9b-a26b-b875ee392e75.png)|
+|2021 대학교 1학년|대학교  크라우드 테스팅 경진대회<br>대학교 안에있는 기관에서 앱을 테스트 해서 결함이나 개선사항을 제출하는 대회에 참가함|[첨부사진](https://user-images.githubusercontent.com/87979171/144268849-0966f4ae-b07c-4c92-841e-01ee4df8a542.png),[참가메세지](https://user-images.githubusercontent.com/87979171/144269224-c4455ecd-c7e6-4a4f-ba3a-fb88b72a6112.png)|
 
 ## 고등학교
 링크 첨부 <br>
-[링크1] <br>
-https://docs.google.com/document/d/15YF7r8K7cV44-vdMoZiRCsorSV9ZizBa37i_kt9TIks/edit?usp=sharing
-
+[구글 도스](https://docs.google.com/document/d/15YF7r8K7cV44-vdMoZiRCsorSV9ZizBa37i_kt9TIks/edit?usp=sharing)
+## 깃허브 커밋
 ![GitHub](https://github-readme-stats.vercel.app/api?username=INMD1&show_icons=true)
+
+## 백준문제
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=lyw5415)](https://solved.ac/lyw5415)
