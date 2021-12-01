@@ -27,6 +27,18 @@
 |deu-Dorm-meal <br> 동의대 기숙사에서 식단정보를 가져옴니다.|2021.06 ~ 2021.06|[링크](https://github.com/INMD1/deu-Dorm-mel)|
 |Checkapp <br> 출입자명부를 폰으로 작성하는 앱입니다.|2021.07 ~ 2021.08|[링크](https://github.com/INMD1/Checkapp)|
 
+# 활동
+## 대학교
+### 대학교  크라우드 테스팅 경진대회
+대학교 안에있는 기관에서 앱을 테스트 해서 결함이나 개선사항을 제출하는 대회에 참가함<br>
+[참여사진]<br>
+[첨부사진](https://user-images.githubusercontent.com/87979171/144268849-0966f4ae-b07c-4c92-841e-01ee4df8a542.png)
+[참가메세지](https://user-images.githubusercontent.com/87979171/144269224-c4455ecd-c7e6-4a4f-ba3a-fb88b72a6112.png)
+
+## 고등학교
+링크 첨부 <br>
+[링크1] <br>
+https://docs.google.com/document/d/15YF7r8K7cV44-vdMoZiRCsorSV9ZizBa37i_kt9TIks/edit?usp=sharing
 
 ![GitHub](https://github-readme-stats.vercel.app/api?username=INMD1&show_icons=true)
 [![Solved.ac
