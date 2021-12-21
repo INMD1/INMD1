@@ -10,14 +10,15 @@
 저를 소개사이트 사이트 입니다!<br>
 (개설중..)
 
+[블로그]<br>
+개발현황, 이야기을 올리는 곳입니다!<br>
+https://blog.powerinmd.me
+<br>
+<br>
+
 [알고리즘]<br>
 제가 푼 코딩 문제를 올리는 곳입니다!<br>
 https://amview.powerinmd.me/
-<br>
-<br>
-[블로그]<br>
-제가 푼 코딩 문제를 올리거나 개발현황, 이야기을 올리는 곳입니다!<br>
-https://blog.powerinmd.me
 <br>
 <br>
 ![다운로드](https://user-images.githubusercontent.com/87979171/135078612-c7456c66-b5e3-4cf3-9df2-e2631b356c3c.png)<br>
