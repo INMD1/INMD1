@@ -27,6 +27,7 @@ https://amview.powerinmd.me/
 ## 프로젝트
 |개발예정 인 프로젝트|기한|
 |------|---|
+|self-introduction|저를 소개하는 사이트 입니다. [레포 보기](https://github.com/INMD1/self-introduction)
 
 
 |개발 중, 업데이트 지원중 인 프로젝트|개발 기한|랑크|
