@@ -42,7 +42,7 @@ https://amview.powerinmd.com/
 |------|---|---|
 |deu-Dorm-meal <br> 동의대 기숙사에서 식단정보를 가져옴니다.|2021.06 ~ 2021.06|[링크](https://github.com/INMD1/deu-Dorm-mel)|
 |Checkapp <br> 출입자명부를 폰으로 작성하는 앱입니다.|2021.07 ~ 2021.08|[링크](https://github.com/INMD1/Checkapp)|
-|전방확인 <br> 고등학교때 앱인벤터, 아두이노,초음파 센서를 사용해서 문앞에 물체를 감지해서 경고하는 앱임|2018|[앱사진](https://user-images.githubusercontent.com/87979171/144278604-a47ffa82-d8ab-471c-93de-a925f19d10d9.png)|
+
 # 🛒활동또는 참가이력
 ## 대학교 💻
 |참가년도 및 학년|제목하고 간단한 내용|참여사진또는 문서
@@ -52,7 +52,8 @@ https://amview.powerinmd.com/
 
 ## 고등학교
 링크 첨부 <br>
-[구글 도스](https://docs.google.com/document/d/15YF7r8K7cV44-vdMoZiRCsorSV9ZizBa37i_kt9TIks/edit?usp=sharing)
+[구글 도스](https://docs.google.com/document/d/15YF7r8K7cV44-vdMoZiRCsorSV9ZizBa37i_kt9TIks/edit?usp=sharing)<br>
+제작한 파일 한번보기: [바로가기](https://github.com/INMD1/backup-or-Archive)
 ## 깃허브 커밋
 ![GitHub](https://github-readme-stats.vercel.app/api?username=INMD1&show_icons=true)
 
