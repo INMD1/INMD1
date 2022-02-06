@@ -39,7 +39,7 @@ https://amview.powerinmd.com/
 
 |개발 종료, 업데이트 종료된 프로젝트|개발 기한|링크|
 |------|---|---|
-|Javabot-KR-plus <br> 디스코드에서 음악을 재생해주는 봇입니다.|2019.06~ |[링크](https://github.com/INMD1/Javabot-KR-plus)|
+|Javabot-KR-plus <br> 디스코드에서 음악을 재생해주는 봇입니다.|2019.06 ~ 2022-02.07|[링크](https://github.com/INMD1/Javabot-KR-plus)|
 |deu-Dorm-meal <br> 동의대 기숙사에서 식단정보를 가져옴니다.|2021.06 ~ 2021.06|[링크](https://github.com/INMD1/deu-Dorm-mel)|
 |Checkapp <br> 출입자명부를 폰으로 작성하는 앱입니다.|2021.07 ~ 2021.08|[링크](https://github.com/INMD1/Checkapp)|
 
