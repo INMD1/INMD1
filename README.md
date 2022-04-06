@@ -31,7 +31,10 @@ https://amview.powerinmd.com/
 
 |개발 중, 업데이트 지원중 인 프로젝트|개발 기한|랑크|
 |------|---|---|
-|deu_food_gui<br> 학교앱의 불편한 부분을 직접 만들어서 씀| 2022.03~ |아직은 비공개 방침
+|asw-dod/DoD_app_vue_container<br>DoD_DashBoard를 모바일용으로 바꿈| 2022.03~ |[링크](https://github.com/asw-dod/DoD_app_vue_container)
+|asw-dod/Deu_food_api<br>학교기숙사나 학식을 자동으로 파싱해서 api로 제공합니다.| 2022.03~ |[링크](https://github.com/asw-dod/Deu_food_api)
+|asw-dod/DoD_DashBoard<br>학교 공지사항이나 기타 정보를 한번에 보여줌니다| 2022.03~ |[링크](https://github.com/asw-dod/DoD_DashBoard)
+|deu_food_gui<br> 학교앱의 불편한 부분을 직접 만들어서 씀| 2022.03~ |[링크](https://github.com/INMD1/deu_food_gui)
 |jsbot-plus<br> JAVA지원을 종료하고 JS로 음악봇을 만들었습니다.| 2022.02~ |[링크](https://github.com/INMD1/jsbot-plus)
 |self-introduction<br> 저를 소개하는 사이트 입니다.| 2022.01~ |[링크](https://github.com/INMD1/self-introduction)
 |server-dashboard <br> 동아리실에 있는 개인서버에 라파와 터치스트린을 통해 관리할수 있는 데시보드를 제작합니다. |2021.11~|[링크](https://github.com/INMD1/server-dashboard)|
