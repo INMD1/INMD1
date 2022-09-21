@@ -29,8 +29,11 @@ https://amview.powerinmd.com/
 |------|---|
 
 
-|개발 중, 업데이트 지원중 인 프로젝트|개발 기한|랑크|
+|개발 중 또는 종료,프로젝트|개발 기한|랑크|
 |------|---|---|
+|dod-kiosk-front <br> 선배가 만들고 있는 프로그램을 하이젝 한거입니다. |2022.09~|[링크](https://github.com/INMD1-Repo/dod-kiosk-front)|
+|weather-web <br> 선배가 만든 사이트를 보고 영감을 얻어 제작중입니다.. |2022.09~|[링크](https://github.com/INMD1/weather-web)|
+|<center>🥾 군대 입대 🔼</center> |
 |asw-dod/DoD_app_vue_container<br>DoD_DashBoard를 모바일용으로 바꿈| 2022.03~ |[링크](https://github.com/asw-dod/DoD_app_vue_container)
 |asw-dod/Deu_food_api<br>학교기숙사나 학식을 자동으로 파싱해서 api로 제공합니다.| 2022.03~ |[링크](https://github.com/asw-dod/Deu_food_api)
 |asw-dod/DoD_DashBoard<br>학교 공지사항이나 기타 정보를 한번에 보여줌니다| 2022.03~ |[링크](https://github.com/asw-dod/DoD_DashBoard)
@@ -38,15 +41,15 @@ https://amview.powerinmd.com/
 |jsbot-plus<br> JAVA지원을 종료하고 JS로 음악봇을 만들었습니다.| 2022.02~ |[링크](https://github.com/INMD1/jsbot-plus)
 |self-introduction<br> 저를 소개하는 사이트 입니다.| 2022.01~ |[링크](https://github.com/INMD1/self-introduction)
 |server-dashboard <br> 동아리실에 있는 개인서버에 라파와 터치스트린을 통해 관리할수 있는 데시보드를 제작합니다. |2021.11~|[링크](https://github.com/INMD1/server-dashboard)|
+|<center>🛠 대학교 2학년 🔼</center> |
 |computerapi <br> server-dashboard에 필요하는 api |2021.11~ |[링크](https://github.com/INMD1/computerapi)|
 |iptime-port-setting <br> 선배가 만든 iptime 포트포워드 api를 콘솔에서 간편하게 쓸수 있는 것입니다. |2021.10~|[링크](https://github.com/INMD1/iptime-port-setting)|
-
-|개발 종료, 업데이트 종료된 프로젝트|개발 기한|링크|
-|------|---|---|
 |school-discord-bot <br> 동의대 창소 1학년들의 디스코드 서버 봇입니다.|2021.06~2021.12|[링크](https://github.com/INMD1/school-discord-bot)|
-|Javabot-KR-plus <br> 디스코드에서 음악을 재생해주는 봇입니다.|2019.06 ~ 2022-02.07|[링크](https://github.com/INMD1/Javabot-KR-plus)|
 |deu-Dorm-meal <br> 동의대 기숙사에서 식단정보를 가져옴니다.|2021.06 ~ 2021.06|[링크](https://github.com/INMD1/deu-Dorm-mel)|
 |Checkapp <br> 출입자명부를 폰으로 작성하는 앱입니다.|2021.07 ~ 2021.08|[링크](https://github.com/INMD1/Checkapp)|
+|<center>🛠 대학교 1학년  🔼</center> |
+|Javabot-KR-plus <br> 디스코드에서 음악을 재생해주는 봇입니다.|2019.06 ~ 2022-02.07|[링크](https://github.com/INMD1/Javabot-KR-plus)|
+
 
 # 🛒활동또는 참가이력
 ## 대학교 💻
