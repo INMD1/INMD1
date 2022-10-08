@@ -26,8 +26,8 @@
 ## 📝 깃커밋 상태 및 백준 프로필
 
 <div>
-        <img  style="width: 45vw" src="https://github-readme-stats.vercel.app/api?username=INMD1&show_icons=true">  
-        <img  style="width: 45vw" src="http://mazassumnida.wtf/api/generate_badge?boj=lyw5415">  
+        <img  style="width: 50%" src="https://github-readme-stats.vercel.app/api?username=INMD1&show_icons=true">  
+        <img src="http://mazassumnida.wtf/api/generate_badge?boj=lyw5415">  
 </div> 
 
 ## 📋 프로젝트 
