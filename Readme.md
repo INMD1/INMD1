@@ -1,9 +1,11 @@
-<!--사진 넣기-->
+
 ![Untitled](https://user-images.githubusercontent.com/87979171/194687583-0323233b-ed56-4af4-b1f7-69ba148a8ec0.jpg)
 ## 💻 여러분들 반가워요!
 저는 고등학교때 앱을 만드는거 부터 시작해서 웹이나 프로그램을 개발 중인 INMD1입니다.
 
-### 저는 이런 것들을 사용해보았서요
+<center>  <h2>저는 이런 것들을 사용해보았서요</h2> </center>
+<center>  이런 언어,프레임워크를 이용해서 개발을 했고 앞으로 더 나아갈거에요. </center>
+
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
