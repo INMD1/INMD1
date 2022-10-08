@@ -3,6 +3,27 @@
 ## 💻 여러분들 반가워요!
 저는 고등학교때 앱을 만드는거 부터 시작해서 웹이나 프로그램을 개발 중인 INMD1입니다.
 
+
+## 💻My site!
+[My name...]<br>
+저를 소개사이트 사이트 입니다!<br>
+https://powerinmd.com
+
+[블로그]<br>
+개발현황, 이야기을 올리는 곳입니다!<br>
+https://blog.powerinmd.com
+<br>
+<br>
+
+[알고리즘]<br>
+제가 푼 코딩 문제를 올리는 곳입니다!<br>
+https://amview.powerinmd.com/
+<br>
+<br>
+![다운로드](https://user-images.githubusercontent.com/87979171/135078612-c7456c66-b5e3-4cf3-9df2-e2631b356c3c.png)<br>
+[현재 제가 만든 코드상태]
+
+
 <h2 align="center">🛠저는 이런 것들을 사용해보았서요🛠</h2>
 <p align="center">앞으로도 이것보다 많은 언어와 프레임워크를 경험할꺼에요</p>
 
@@ -30,7 +51,9 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
 
