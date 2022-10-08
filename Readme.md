@@ -18,10 +18,6 @@ https://blog.powerinmd.com
 [알고리즘]<br>
 제가 푼 코딩 문제를 올리는 곳입니다!<br>
 https://amview.powerinmd.com/
-<br>
-<br>
-![다운로드](https://user-images.githubusercontent.com/87979171/135078612-c7456c66-b5e3-4cf3-9df2-e2631b356c3c.png)<br>
-[현재 제가 만든 코드상태]
 
 
 <h2 align="center">🛠저는 이런 것들을 사용해보았서요🛠</h2>
