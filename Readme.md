@@ -30,7 +30,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=INMD1&show_icons=true">  
     </div> 
     <div style="width: 50%">
-            <img src="(http://mazassumnida.wtf/api/generate_badge?boj=lyw5415)">  
+            <img src="http://mazassumnida.wtf/api/generate_badge?boj=lyw5415">  
     </div> 
 </div> 
 
