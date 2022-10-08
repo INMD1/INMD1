@@ -27,10 +27,10 @@
 
 <div>
     <div style="width: 50%">
-        ![GitHub](https://github-readme-stats.vercel.app/api?username=INMD1&show_icons=true)    
+        <img src="https://github-readme-stats.vercel.app/api?username=INMD1&show_icons=true">  
     </div> 
     <div style="width: 50%">
-        ![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=lyw5415)
+            <img src="(http://mazassumnida.wtf/api/generate_badge?boj=lyw5415)">  
     </div> 
 </div> 
 
