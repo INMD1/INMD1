@@ -21,8 +21,8 @@
 
 ## 📝 깃커밋 상태 및 백준 프로필
 
-![GitHub](https://github-readme-stats.vercel.app/api?username=INMD1&show_icons=true){width: 50vw}
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=lyw5415)(https://solved.ac/lyw5415)
+![GitHub](https://github-readme-stats.vercel.app/api?username=INMD1&show_icons=true)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=lyw5415)
 
 ## 📋 프로젝트 
 |개발 중 또는 종료,프로젝트|개발 기한|랑크| 
