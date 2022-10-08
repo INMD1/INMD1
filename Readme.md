@@ -1,23 +1,8 @@
 
 ![Untitled](https://user-images.githubusercontent.com/87979171/194687583-0323233b-ed56-4af4-b1f7-69ba148a8ec0.jpg)
 ## 💻 여러분들 반가워요!
-저는 고등학교때 앱을 만드는거 부터 시작해서 웹이나 프로그램을 개발 중인 INMD1입니다.
-
-
-## 💻My site!
-[My name...]<br>
-저를 소개사이트 사이트 입니다!<br>
-https://powerinmd.com
-
-[블로그]<br>
-개발현황, 이야기을 올리는 곳입니다!<br>
-https://blog.powerinmd.com
-<br>
-<br>
-
-[알고리즘]<br>
-제가 푼 코딩 문제를 올리는 곳입니다!<br>
-https://amview.powerinmd.com/
+저는 고등학교때 앱을 만드는거 부터 시작해서 웹이나 프로그램을 개발 중인 INMD1입니다.<br>가끔 제 블로그나 따로 제작한 사이트를 운영하는데 한번 들어가보는건 어떤가요?<br>
+https://blog.powerinmd.com <- 이쪽으로 오시면 제가 만든사이트들도 바로 이동할수 있서요
 
 
 <h2 align="center">🛠저는 이런 것들을 사용해보았서요🛠</h2>
