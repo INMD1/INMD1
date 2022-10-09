@@ -4,6 +4,10 @@
 저는 고등학교때 앱을 만드는거 부터 시작해서 웹이나 프로그램을 개발 중인 INMD1입니다.<br>가끔 제 블로그나 따로 제작한 사이트를 운영하는데 한번 들어가보는건 어떤가요?<br>
 https://blog.powerinmd.com <- 이쪽으로 오시면 제가 만든사이트들도 바로 이동할수 있서요
 
+## 연락처
+
+![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 <h2 align="center">🛠저는 이런 것들을 사용해보았서요🛠</h2>
 <p align="center">앞으로도 이것보다 많은 언어와 프레임워크를 경험할꺼에요</p>
