@@ -5,8 +5,9 @@
 https://blog.powerinmd.com <- 이쪽으로 오시면 제가 만든사이트들도 바로 이동할수 있서요
 
 ## 연락처
-
-![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+Ubuntu 22.04 LTS#7195
+![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)<br><br>
+lyw514549@gmail.com
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 <h2 align="center">🛠저는 이런 것들을 사용해보았서요🛠</h2>
