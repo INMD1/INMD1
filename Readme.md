@@ -6,10 +6,9 @@ https://blog.powerinmd.com <- 이쪽으로 오시면 제가 만든사이트들�
 
 ## 연락처
 Ubuntu 22.04 LTS#7195<br>
-![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)<br><br>
-lyw514549@gmail.com<br>
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
+![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)<br>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+](lyw514549@gmail.com)
 <h2 align="center">🛠저는 이런 것들을 사용해보았서요🛠</h2>
 <p align="center">앞으로도 이것보다 많은 언어와 프레임워크를 경험할꺼에요</p>
 
