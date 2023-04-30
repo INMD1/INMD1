@@ -52,7 +52,7 @@ Ubuntu 22.04 LTS#7195<br>
 ## 📋 프로젝트 
 |개발 중 또는 종료,프로젝트|개발 기한|랑크| 
 |------|---|---|
-|APSU <br> 대대 부대 발전 프로젝트 입니다. |2022.11~|| 
+|APSU <br> 대대 부대 발전 프로젝트 입니다. |2022.11~|[링크](https://github.com/INMD1-Repo/APSU)|  
 |weather-web <br> 선배가 만든 사이트를 보고 영감을 얻어 제작중입니다.. |2022.09~|[링크](https://github.com/INMD1/weather-web)| 
 |🥾 군대 입대 2022.5.10 ~ 🔼| 
 |asw-dod/DoD_app_vue_container<br>DoD_DashBoard를 모바일용으로 바꿈| 2022.03~ |[링크](https://github.com/asw-dod/DoD_app_vue_container)
