@@ -55,7 +55,7 @@ Ubuntu 22.04 LTS#7195<br>
 |APSU <br> 대대 부대 발전 프로젝트 입니다. |2022.11~|[링크](https://github.com/INMD1-Repo/APSU)|  
 |weather-web <br> 선배가 만든 사이트를 보고 영감을 얻어 제작중입니다.. |2022.09~|[링크](https://github.com/INMD1/weather-web)| 
 |🥾 군대 입대 2022.5.10 ~ 🔼| 
-|asw-dod/DoD_app_vue_container<br>DoD_DashBoard를 모바일용으로 바꿈| 2022.03~ |[링크](https://github.com/asw-dod/DoD_app_vue_container)
+|asw-dod/DoD_app_vue_container<br>DoD_DashBoard를 모바일용으로 바꿈| 2022.03~2023(중단) |[링크](https://github.com/asw-dod/DoD_app_vue_container)
 |asw-dod/Deu_food_api<br>학교기숙사나 학식을 자동으로 파싱해서 api로 제공합니다.| 2022.03~ 유집보수|[링크](https://github.com/asw-dod/Deu_food_api) 
 |asw-dod/DoD_DashBoard<br>학교 공지사항이나 기타 정보를 한번에 보여줌니다| 2022.03~ 2022.05 |[링크](https://github.com/asw-dod/DoD_DashBoard) 
 |deu_food_gui<br> 학교앱의 불편한 부분을 직접 만들어서 씀| 2022.03~ |[링크](https://github.com/INMD1/deu_food_gui)
