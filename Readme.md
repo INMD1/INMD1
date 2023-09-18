@@ -52,15 +52,15 @@ Ubuntu 22.04 LTS#7195<br>
 ## 📋 프로젝트 
 |개발 중 또는 종료,프로젝트|개발 기한|랑크| 
 |------|---|---|
-|APSU <br> 대대 부대 발전 프로젝트 입니다. |2022.11~|[링크](https://github.com/INMD1-Repo/APSU)|  
-|weather-web <br> 선배가 만든 사이트를 보고 영감을 얻어 제작중입니다.. |2022.09~|[링크](https://github.com/INMD1/weather-web)| 
+|APSU <br> 대대 부대 발전 프로젝트 입니다. |2022.11 ~ |[링크](https://github.com/INMD1-Repo/APSU)|  
+|weather-web <br> 선배가 만든 사이트를 보고 영감을 얻어 제작중입니다.. |2022.09 ~ 2023.09 |[링크](https://github.com/INMD1/weather-web)| 
 |🥾 군대 입대 2022.5.10 ~ 🔼| 
 |asw-dod/DoD_app_vue_container<br>DoD_DashBoard를 모바일용으로 바꿈| 2022.03~2023(중단) |[링크](https://github.com/asw-dod/DoD_app_vue_container)
-|asw-dod/Deu_food_api<br>학교기숙사나 학식을 자동으로 파싱해서 api로 제공합니다.| 2022.03~ 유집보수|[링크](https://github.com/asw-dod/Deu_food_api) 
+|asw-dod/Deu_food_api<br>학교기숙사나 학식을 자동으로 파싱해서 api로 제공합니다.| 2022.03 ~ LTS|[링크](https://github.com/asw-dod/Deu_food_api) 
 |asw-dod/DoD_DashBoard<br>학교 공지사항이나 기타 정보를 한번에 보여줌니다| 2022.03~ 2022.05 |[링크](https://github.com/asw-dod/DoD_DashBoard) 
 |deu_food_gui<br> 학교앱의 불편한 부분을 직접 만들어서 씀| 2022.03~ |[링크](https://github.com/INMD1/deu_food_gui)
-|jsbot-plus<br> JAVA지원을 종료하고 JS로 음악봇을 만들었습니다.| 2022.02~ |[링크](https://github.com/INMD1/jsbot-plus)
-|self-introduction<br> 저를 소개하는 사이트 입니다.| 2022.01~ |[링크](https://github.com/INMD1/self-introduction) |server-dashboard <br> 동아리실에 있는 개인서버에 라파와 터치스트린을 통해 관리할수 있는 데시보드를 제작합니다. |2021.11~|[링크](https://github.com/INMD1/server-dashboard)| 
+|jsbot-plus<br> JAVA지원을 종료하고 JS로 음악봇을 만들었습니다.| 2022.02 ~ 2022.12 |[링크](https://github.com/INMD1/jsbot-plus)
+|self-introduction<br> 저를 소개하는 사이트 입니다.| 2022.01~ LTS |[링크](https://github.com/INMD1/self-introduction) |server-dashboard <br> 동아리실에 있는 개인서버에 라파와 터치스트린을 통해 관리할수 있는 데시보드를 제작합니다. |2021.11~|[링크](https://github.com/INMD1/server-dashboard)| 
 |🛠 대학교 2학년 🔼| 
 |computerapi <br> server-dashboard에 필요하는 api |2021.11~ 2022.11|[링크](https://github.com/INMD1/computerapi)| 
 |iptime-port-setting <br> 선배가 만든 iptime 포트포워드 api를 콘솔에서 간편하게 쓸수 있는 것입니다. |2021.10~2022.9|[링크](https://github.com/INMD1/iptime-port-setting)|
