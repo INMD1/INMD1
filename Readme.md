@@ -61,7 +61,7 @@ Ubuntu 22.04 LTS#7195<br>
 |deu_food_gui<br> 학교앱의 불편한 부분을 직접 만들어서 씀| 2022.03~ |[링크](https://github.com/INMD1/deu_food_gui)
 |jsbot-plus<br> JAVA지원을 종료하고 JS로 음악봇을 만들었습니다.| 2022.02 ~ 2022.12 |[링크](https://github.com/INMD1/jsbot-plus)
 |self-introduction<br> 저를 소개하는 사이트 입니다.| 2022.01~ LTS |[링크](https://github.com/INMD1/self-introduction) |server-dashboard <br> 동아리실에 있는 개인서버에 라파와 터치스트린을 통해 관리할수 있는 데시보드를 제작합니다. |2021.11~|[링크](https://github.com/INMD1/server-dashboard)| 
-|🛠 대학교 2학년 🔼| 
+|🛠 대학교 휴학기(사유 입대예정) 🔼| 
 |computerapi <br> server-dashboard에 필요하는 api |2021.11~ 2022.11|[링크](https://github.com/INMD1/computerapi)| 
 |iptime-port-setting <br> 선배가 만든 iptime 포트포워드 api를 콘솔에서 간편하게 쓸수 있는 것입니다. |2021.10~2022.9|[링크](https://github.com/INMD1/iptime-port-setting)|
 |school-discord-bot <br> 동의대 창소 1학년들의 디스코드 서버 봇입니다.|2021.06~2021.12|[링크](https://github.com/INMD1/school-discord-bot)| 
