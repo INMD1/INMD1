@@ -25,7 +25,7 @@ Ubuntu 22.04 LTS#7195<br>
 
 <h2 align="center">🛠저는 이런 것들을 사용해보았서요🛠</h2>
 <p align="center">앞으로도 이것보다 많은 언어와 프레임워크를 경험할꺼에요</p>
-<p align="center">오래 사용한해서 까먹을지도? ㅎㅎ</p>
+<p align="center">오래 사용 안해서 까먹을지도? ㅎㅎ</p>
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -83,7 +83,7 @@ Ubuntu 22.04 LTS#7195<br>
 |computerapi <br> server-dashboard에 필요하는 api |2021.11~ 2022.11|[링크](https://github.com/INMD1/computerapi)| 
 |iptime-port-setting <br> 선배가 만든 iptime 포트포워드 api를 콘솔에서 간편하게 쓸수 있는 것입니다. |2021.10~2022.9|[링크](https://github.com/INMD1-repo/iptime-port-setting)|
 |school-discord-bot <br> 동의대 창소 1학년들의 디스코드 서버 봇입니다.|2021.06~2021.12|[링크](https://github.com/INMD1/school-discord-bot)| 
-|deu-Dorm-meal <br> 동의대 기숙사에서 식단정보를 가져옴니다.|2021.06 ~ 2021.06|[링크](https://github.com/INMD1/deu-Dorm-mel)| |Checkapp <br> 출입자명부를 폰으로 작성하는 앱입니다.|2021.07 ~ 2021.08|[링크](https://github.com/INMD1/Checkapp)| 
+|deu-Dorm-meal <br> 동의대 기숙사에서 식단정보를 가져옴니다.|2021.06 ~ 2021.06|---| |Checkapp <br> 출입자명부를 폰으로 작성하는 앱입니다.|2021.07 ~ 2021.08|[링크](https://github.com/INMD1/Checkapp)| 
 |🛠 대학교 1학년 🔼| 
 |Javabot-KR-plus <br> 디스코드에서 음악을 재생해주는 봇입니다.|2019.06 ~ 2022-02.07|[링크](https://github.com/INMD1/Javabot-KR-plus)| 
 |🛠 고등학교 시절 🔼| 
