@@ -1,5 +1,6 @@
  
-![Group 5](https://github.com/user-attachments/assets/087dc996-5feb-4253-ae30-117e26dc3e6d)
+![Group 5](https://github.com/user-attachments/assets/c6b55571-7912-48c3-a7fc-090ec934ce82)
+
 
 ## 💻 여러분들 반가워요!
 
