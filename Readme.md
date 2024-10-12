@@ -69,6 +69,7 @@ Ubuntu 22.04 LTS#7195<br>
 ## 📋 프로젝트 
 |개발 중 또는 종료,프로젝트|개발 기한|랑크| 
 |------|---|---|
+|flowerpot_ESP32 <br> 누군가의 외압으로 만든 간단한 프로젝트 |2024.02 ~  |[링크]([https://github.com/INMD1-Repo/deu_moblie_flutter](https://github.com/INMD1/flowerpot_ESP32))| 
 |deu_moblie_flutter <br> Ionic으로 만든 App을 플러터로 만들어보았다. |2024.02 ~  |[링크](https://github.com/INMD1-Repo/deu_moblie_flutter)| 
 |Deu_wear_ap <br> 워치에서도 정보를 쉽게 볼수 있게 만든 앱입니다. |2023.12 ~  |[링크](https://github.com/INMD)|  
 |Deu_widget with watch <br>워치에 연결하기 위한 앱입니다. |2023.12 ~ |[링크](https://github.com/INMD1)|  
@@ -97,3 +98,4 @@ Ubuntu 22.04 LTS#7195<br>
 |참가년도 및 학년|제목하고 간단한 내용|참여사진또는 문서 
 |--------------|-----------------------------|--------| 
 |2021 대학교 1학년|대학교 아이디어 난장대회 참<br>학교에서 실시하는 아이디어 공모전에 선배랑 같이 대회에 참가함|[아이디어 제품 디자인](https://user-images.githubusercontent.com/87979171/144269689-16433768-4a48-4afd-bafd-2d4bfe5f9c35.png),[보고서 일부](https://user-images.githubusercontent.com/87979171/144271306-6ead9c8c-47b1-4f9b-a26b-b875ee392e75.png)| |2021 대학교 1학년|대학교 크라우드 테스팅 경진대회<br>대학교 안에있는 기관에서 앱을 테스트 해서 결함이나 개선사항을 제출하는 대회에 참가함|[첨부사진](https://user-images.githubusercontent.com/87979171/144268849-0966f4ae-b07c-4c92-841e-01ee4df8a542.png),[참가메세지](https://user-images.githubusercontent.com/87979171/144269224-c4455ecd-c7e6-4a4f-ba3a-fb88b72a6112.png)| ## 고등학교 링크 첨부 <br> [구글 도스](https://docs.google.com/document/d/15YF7r8K7cV44-vdMoZiRCsorSV9ZizBa37i_kt9TIks/edit?usp=sharing)<br> 제작한 파일 한번보기: [바로가기](https://github.com/INMD1/backup-or-Archive)
+|2024 대학교 2학년|데비콘24 컨퍼런스 인프라 참여|https://blog.powerinmd.com/debconf24-ilhagi/| 
