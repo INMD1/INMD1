@@ -70,9 +70,6 @@ Ubuntu 22.04 LTS#7195<br>
 |개발 중 또는 종료,프로젝트|개발 기한|랑크| 
 |------|---|---|
 |flowerpot_ESP32 <br> 누군가의 외압으로 만든 간단한 프로젝트 |2024.02 ~  |[링크]([https://github.com/INMD1-Repo/deu_moblie_flutter](https://github.com/INMD1/flowerpot_ESP32))| 
-|deu_moblie_flutter <br> Ionic으로 만든 App을 플러터로 만들어보았다. |2024.02 ~  |[링크](https://github.com/INMD1-Repo/deu_moblie_flutter)| 
-|Deu_wear_ap <br> 워치에서도 정보를 쉽게 볼수 있게 만든 앱입니다. |2023.12 ~  |[링크](https://github.com/INMD)|  
-|Deu_widget with watch <br>워치에 연결하기 위한 앱입니다. |2023.12 ~ |[링크](https://github.com/INMD1)|  
 |🏅 군대 전역 2023.11.09 🔼| 
 |APSU <br> 대대 부대 발전 프로젝트 입니다. |2022.11 ~ |[링크](https://github.com/INMD1-Repo/APSU)|  
 |weather-web <br> 선배가 만든 사이트를 보고 영감을 얻어 제작중입니다.. |2022.09 ~ 2023.09 |[링크](https://github.com/INMD1/weather-web)| 
