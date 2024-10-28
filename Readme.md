@@ -69,7 +69,7 @@ Ubuntu 22.04 LTS#7195<br>
 ## 📋 프로젝트 
 |개발 중 또는 종료,프로젝트|개발 기한|랑크| 
 |------|---|---|
-|flowerpot_ESP32 <br> 누군가의 외압으로 만든 간단한 프로젝트 |2024.02 ~  |[링크]([https://github.com/INMD1-Repo/deu_moblie_flutter](https://github.com/INMD1/flowerpot_ESP32))| 
+|flowerpot_ESP32 <br> 누군가의 외압으로 만든 간단한 프로젝트 |2024.9 ~ 2024.11 |[링크](https://github.com/INMD1/flowerpot_ESP32)| 
 |🏅 군대 전역 2023.11.09 🔼| 
 |APSU <br> 대대 부대 발전 프로젝트 입니다. |2022.11 ~ |[링크](https://github.com/INMD1-Repo/APSU)|  
 |weather-web <br> 선배가 만든 사이트를 보고 영감을 얻어 제작중입니다.. |2022.09 ~ 2023.09 |[링크](https://github.com/INMD1/weather-web)| 
