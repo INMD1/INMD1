@@ -68,6 +68,7 @@ Ubuntu 22.04 LTS#7195<br>
 ## 📋 프로젝트 
 |개발 중 또는 종료,프로젝트|개발 기한|랑크| 
 |------|---|---|
+|D-Cloud-platform <br> 동의대 응용소프트웨어학과 Dcloud동아리 서버관리툴입니다. |2024.12 ~  |[링크](https://github.com/INMD1-Repo/D-Cloud-platform)| 
 |flowerpot_ESP32 <br> 누군가의 외압으로 만든 간단한 프로젝트 |2024.9 ~ 2024.11 |[링크](https://github.com/INMD1/flowerpot_ESP32)| 
 |🏅 군대 전역 2023.11.09 🔼| 
 |APSU <br> 대대 부대 발전 프로젝트 입니다. |2022.11 ~ 2023.11 |[링크](https://github.com/INMD1-Repo/APSU)|  
