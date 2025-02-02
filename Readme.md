@@ -64,10 +64,10 @@ Ubuntu 22.04 LTS#7195<br>
         <img  style="width: 50%" src="https://github-readme-stats.vercel.app/api?username=INMD1&show_icons=true">  
         <img src="http://mazassumnida.wtf/api/generate_badge?boj=lyw5415">  
 </div> 
-
 ## 📋 프로젝트 
 |개발 중 또는 종료,프로젝트|개발 기한|랑크| 
 |------|---|---|
+|ASW-PSMT <br> 동의대 응용소프트웨어학과 실습 지원 플랫폼 입니다. |2024.12 ~  |[링크](https://github.com/INMD1/ASW-PSMT)| 
 |D-Cloud-platform <br> 동의대 응용소프트웨어학과 Dcloud동아리 서버관리툴입니다. |2024.12 ~  |[링크](https://github.com/INMD1-Repo/D-Cloud-platform)| 
 |flowerpot_ESP32 <br> 누군가의 외압으로 만든 간단한 프로젝트 |2024.9 ~ 2024.11 |[링크](https://github.com/INMD1/flowerpot_ESP32)| 
 |🏅 군대 전역 2023.11.09 🔼| 
