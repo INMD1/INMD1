@@ -25,7 +25,7 @@ Ubuntu 22.04 LTS#7195<br>
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 <h2 align="center">🛠저는 이런 것들을 사용해보았서요🛠</h2>
 <p align="center">앞으로도 이것보다 많은 언어와 프레임워크를 경험할꺼에요</p>
 <p align="center">오래 사용 안해서 까먹을지도? ㅎㅎ</p>
