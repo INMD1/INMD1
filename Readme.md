@@ -66,19 +66,29 @@ Discord<br>
 
 ## 📋 Projects
 
-| Ongoing or completed projects | Development period | Rank |
-| :-- | :-- | :-- |
-| ASW-PSMT <br> A practical support platform for Dong-Eui University's Applied Software Department. | 2024.12 ~ | [Link]github.comINMD1ASWPSMT) |
-| D-Cloud-platform <br> A server management tool for Dong-Eui University's Dcloud Club. | 2024.12 ~ | [Link]github.comINMD1RepoDCloudplatform) |
-| flowerpot_ESP32 <br> A simple project created under external pressure. | 2024.9 ~ 2024.11 | [Link]github.comINMD1flowerpotESP32) |
-| 🏅 Military discharge 2023.11.09 🔼 |  |  |
-| APSU <br> A project to improve the battalion. | 2022.11 ~ 2023.11 | [Link]github.comINMD1RepoAPSU) |
-| weather-web <br> Inspired by a site created by a senior, currently under development. | 2022.09 ~ 2023.09 | [Link]github.comINMD1weatherweb) |
-| 🥾 Military enlistment 2022.5.10 ~ 🔼 |  |  |
-| asw-dodDoD_app_vue_container<br>Converting DoD_DashBoard for mobile use. | 2022.03~2023(discontinued) | [Link]github.comaswdodDoDappvuecontainer |
-| asw-dodDeu_food_api<br>Provides API by parsing school dormitory or cafeteria menus automatically. | 2022.03 ~ LTS | [Link]github.comaswdodDeufoodapi) |
-| asw-dodDoD_DashBoard<br>Displays school announcements and other information in one place. | 2022.03 ~ 2022.05 | [Link]github.comaswdodDoDDashBoard) |
-| deu_food_gui<br> Created to address inconvenient parts of the school app. | 2022.03 ~ LTS | [Link]github.comINMD1deufoodgui) |
+| Status / Project | Development Period | Link |  
+|-----------------|------------------|------|  
+| ASW-PSMT <br> A practice support platform for the Department of Applied Software at Dong-Eui University. | 2024.12 ~ | [Link](https://github.com/INMD1/ASW-PSMT) |  
+| D-Cloud-platform <br> A server management tool for the Dcloud club of the Department of Applied Software at Dong-Eui University. | 2024.12 ~ | [Link](https://github.com/INMD1-Repo/D-Cloud-platform) |  
+| flowerpot_ESP32 <br> A simple project created under external pressure. | 2024.9 ~ 2024.11 | [Link](https://github.com/INMD1/flowerpot_ESP32) |  
+| 🏅 Military Discharge 2023.11.09 🔼 |  |  |  
+| APSU <br> A battalion unit development project. | 2022.11 ~ 2023.11 | [Link](https://github.com/INMD1-Repo/APSU) |  
+| weather-web <br> Inspired by a site created by a senior, currently under development. | 2022.09 ~ 2023.09 | [Link](https://github.com/INMD1/weather-web) |  
+| 🥾 Military Enlistment 2022.5.10 ~ 🔼 |  |  |  
+| asw-dod/DoD_app_vue_container <br> Converted DoD_DashBoard into a mobile version. | 2022.03 ~ 2023 (discontinued) | [Link](https://github.com/asw-dod/DoD_app_vue_container) |  
+| asw-dod/Deu_food_api <br> Parses university dormitory and cafeteria meal information into an API. | 2022.03 ~ LTS | [Link](https://github.com/asw-dod/Deu_food_api) |  
+| asw-dod/DoD_DashBoard <br> Displays university announcements and other information in one place. | 2022.03 ~ 2022.05 | [Link](https://github.com/asw-dod/DoD_DashBoard) |  
+| deu_food_gui <br> Created an alternative app to improve the inconveniences of the university's official app. | 2022.03 ~ LTS | [Link](https://github.com/INMD1/deu_food_gui) |  
+| jsbot-plus <br> Switched from Java support to a JavaScript-based music bot. | 2022.02 ~ 2022.12 | [Link](https://github.com/INMD1/jsbot-plus) |  
+| self-introduction <br> A personal introduction website. | 2022.01 ~ LTS | [Link](https://github.com/INMD1/self-introduction) |  
+| 🛠 University Leave of Absence (Due to Military Service) 🔼 |  |  |  
+| computerapi <br> API required for a server-dashboard. | 2021.11 ~ 2022.11 | [Link](https://github.com/INMD1/computerapi) |  
+| iptime-port-setting <br> A console-friendly version of an ipTIME port forwarding API created by a senior. | 2021.10 ~ 2022.9 | [Link](https://github.com/INMD1-repo/iptime-port-setting) |  
+| school-discord-bot <br> A Discord bot for first-year students at Dong-Eui University. | 2021.06 ~ 2021.12 | [Link](https://github.com/INMD1/school-discord-bot) |  
+| deu-Dorm-meal <br> Fetches dormitory meal information from Dong-Eui University. | 2021.06 ~ 2021.06 | --- |  
+| 🛠 University 1st Year 🔼 |  |  |  
+| Javabot-KR-plus <br> A Discord bot that plays music. | 2019.06 ~ 2022.02.07 | [Link](https://github.com/INMD1/Javabot-KR-plus) |  
+| 🛠 High School Era 🔼 |  |  |  
 
 ### university 💻
 
