@@ -8,7 +8,8 @@ https://blog.powerinmd.com <- You can directly access the sites I made here.<br>
 https://github.com/INMD1-Repo <- You can find more repositories here.
 
 ## Contact
-Discord: Ubuntu 22.04 LTS\#7195<br>
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)<br/>
+ubuntu24.04.01lts<br/><br/>
 ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<br/>
 [lyw514549@gmail.com](mailto:lyw514549@gmail.com)<br/><br/>
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)<br/>
